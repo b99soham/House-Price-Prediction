@@ -1,2 +1,2 @@
 # House-Price-Prediction
-Predicts the price of a house depending on different factors like locality, square foot and uses linear regression model
+Predicts the price of a house depending on different factors like locality, square foot and uses linear regression model. The dataset is downloaded from kaggle.com. This project consists a python flask server that uses the saved model to serve http requests. The website is built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price.
